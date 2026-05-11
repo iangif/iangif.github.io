@@ -1,0 +1,89 @@
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  zoom: 0.9; 
+  -moz-transform: scale(0.9); 
+  -moz-transform-origin: 0 0;
+}
+
+.experience {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+.exp-item {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.6rem;
+}
+
+.exp-logo {
+  width: 42px;
+  height: 42px;
+  /*border-radius: 10px;*/
+  object-fit: cover;
+  flex-shrink: 0;
+}
+
+.exp-main {
+  flex: 1;
+}
+
+.exp-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 1rem;
+}
+
+.exp-header h3 {
+  margin: 0;
+  font-size: 0.95rem;
+  font-weight: 700;
+}
+
+.exp-header span {
+  white-space: nowrap;
+  font-size: 0.95rem;
+  color: #000;
+}
+
+.exp-role {
+  margin: 0.15rem 0;
+  font-weight: 500;
+}
+
+.exp-desc {
+  margin: 0.25rem 0 0;
+  font-size: 0.9rem;
+  color: #4a5568;
+  line-height: 1.4;
+  max-width: 600px;
+}
+
+@media (max-width: 600px) {
+  .exp-header {
+    flex-direction: column;
+    gap: 0.1rem;
+  }
+}
+
+.exp-header span {
+  color: #666;
+}
+
+.exp-desc {
+  color: #666;
+}
+
+html[data-theme="dark"] .exp-header span,
+html[data-theme="dark"] .exp-desc,
+body[data-theme="dark"] .exp-header span,
+body[data-theme="dark"] .exp-desc,
+.dark .exp-header span,
+.dark .exp-desc {
+  color: #cbd5e1;
+}
