@@ -7,7 +7,7 @@ excerpt: 'In this project, we implemented logistic regression for binary classif
 # date:
 # venue: 
 #slidesurl: 
-paperurl: "/files/comp551_2.pdf/"
+paperurl: "/files/comp551_2.pdf"
 #bibtexurl: 
 #citation:
 ---

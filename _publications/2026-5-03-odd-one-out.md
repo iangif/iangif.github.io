@@ -7,7 +7,7 @@ excerpt: 'We address a novel outlier detection problem where, for each group of 
 # date:
 # venue: 
 #slidesurl: 
-paperurl: "/files/comp551_3.pdf/"
+paperurl: "/files/comp551_3.pdf"
 #bibtexurl: 
 #citation:
 ---

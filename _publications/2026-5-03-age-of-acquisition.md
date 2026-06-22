@@ -7,7 +7,7 @@ excerpt: 'Exploring curriculum learning in the context of word embeddings using 
 date: 2026-5-03
 venue: 'Conference on Computational Natural Language Learning (CoNLL)'
 #slidesurl: 
-#paperurl:
+paperurl: 'https://openreview.net/forum?id=XGaBikN7bt#discussion'
 #bibtexurl: 
 citation: '<b>Gifford, I.</b>, Shah, A., Chen, C., Kassab Bachi, T., and Portelance, E. 2026. Revisiting Age of Acquisition in Curriculum Learning: Disentangling Lexical Features and Semantic Structure. In Proceedings of the Conference on Computational Natural Language Learning (CoNLL). (to appear)'
 ---
