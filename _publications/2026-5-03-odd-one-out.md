@@ -16,7 +16,7 @@ We address a novel outlier detection problem where, for each group of 5 grayscal
 
 Our model placed *3rd place out of 105 teams* with an accuracy of 74.4 percent! (see [kaggle](https://www.kaggle.com/competitions/mcgill-comp551-winter2026-a3/leaderboard))
 
-[View Paper](/files/comp551_3.pdf/) |
+[View Paper](/files/comp551_3.pdf) |
 [Download Code](/files/comp551_3_code.ipynb)
 
 ![Model Architecture](/images/comp551a3diagram.jpg)
